@@ -1,0 +1,6 @@
+let Number1= Number(prompt("ingrese un numero por favor"))
+let Number2= Number(prompt("ingrese un segundo numero"))
+console.info("the plus is:"+" "+(Number1+Number2))
+console.info("la resta es:"+" "+(Number1-Number2))
+console.info("la multiplicacion es:"+" "+(Number1*Number2))
+console.info("la division es:"+" "+(Number1/Number2))
